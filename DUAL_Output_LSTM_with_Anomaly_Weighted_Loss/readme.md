@@ -1,8 +1,8 @@
 ## 📄 dual_output_lstm_anomaly_weighted.py
 
 본 파일은 형태소 분석 기반 LSTM 이중 출력(Dual-Output) 모델을 구현한 실험 코드이다.  
-한국어 사용자 리뷰 텍스트를 대상으로 감성(Sentiment)과 요구사항(Requirement)을 동시에 분류하며,  
-부정 리뷰에 대해 요구사항 학습을 강화하는 Anomaly-Weighted 학습 전략을 검증하는 것을 목적
+한국어 사용자 리뷰 텍스트를 대상으로 감성(Sentiment)과 요구사항(Requirement)을 동시에 분류하며, 
+부정 리뷰에 대해 요구사항 학습을 강화하는 Anomaly-Weighted 학습 전략을 검증하는 것을 목적으로 함.
 ---
 
 ### 🔍 핵심 특징
