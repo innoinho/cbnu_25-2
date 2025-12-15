@@ -1,0 +1,8 @@
+# Minimal Python deps
+# (Install CUDA/cuDNN matching your TensorFlow GPU build separately)
+transformers==4.44.2
+sentencepiece
+tensorflow>=2.12
+pandas
+numpy
+scikit-learn
